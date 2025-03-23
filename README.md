@@ -17,7 +17,7 @@ A classic Space Invaders game built with Pygame. Defend your spaceship against w
 
 ## Setup
 1. Clone the repository:
-   git clone https://github.com/AdanSultan/space-invaders-pygame.git
+   git clone https://github.com/AdanSultan/Python/tree/main/Space_Invaders_Pygame
    cd space-invaders-pygame
 2. Ensure assets are in place under "assets/images/" and "assets/sounds/".
 3. Run the game:
