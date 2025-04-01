@@ -69,7 +69,6 @@ while attempt < maximum_retries:
     wait_time *=2
     attempt +=1
 
-    
     #General Applying Pre define functions
 # names.append('Kanwar')
 # print(names)
